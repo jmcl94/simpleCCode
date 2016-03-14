@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457647239 source:c:\users\jamie\documents\c codeblocks\pennyaday\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
